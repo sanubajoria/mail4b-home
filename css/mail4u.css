@@ -1,0 +1,1019 @@
+/* screen - mail4u */
+
+.mail4u {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 68px 0;
+  width: 1600px;
+}
+
+.mail4u .overlap-group7 {
+  height: 600px;
+  margin-left: -34px;
+  position: relative;
+  width: 1666px;
+}
+
+.mail4u .header {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 562px;
+  position: absolute;
+  top: 0;
+  width: 964px;
+}
+
+.mail4u .flex-row {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  min-width: 729px;
+}
+
+.mail4u .logo {
+  align-items: center;
+  display: flex;
+  min-width: 137px;
+}
+
+.mail4u .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--blueberry);
+  border-radius: 22.5px/18.5px;
+  display: flex;
+  height: 37px;
+  min-width: 45px;
+  padding: 1px 9px;
+}
+
+.mail4u .m {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 32px;
+  width: 17px;
+}
+
+.mail4u .mail4-u {
+  color: #233248;
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-bottom: 1.0px;
+  margin-left: 7px;
+  min-height: 30px;
+  min-width: 81px;
+}
+
+.mail4u .place {
+  color: #1f1534;
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-bottom: 3px;
+  margin-left: 541px;
+  min-height: 23px;
+  min-width: 51px;
+}
+
+.mail4u .element {
+  height: 115px;
+  margin-left: -0.21px;
+  margin-top: 64px;
+  width: 132px;
+}
+
+.mail4u .header-text {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 42.0px;
+  margin-top: 8px;
+  min-height: 338px;
+  width: 442px;
+}
+
+.mail4u .email-designer-for-quick-book {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 56px;
+  min-height: 112px;
+}
+
+.mail4u .build-beautiful-invo {
+  color: var(--topaz);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-l);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: 25px;
+  min-height: 64px;
+}
+
+.mail4u .overlap-group {
+  height: 60px;
+  margin-top: 77px;
+  position: relative;
+  width: 233px;
+}
+
+.mail4u .rectangle-1 {
+  background-color: var(--blueberry);
+  border-radius: 55px;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 233px;
+}
+
+.mail4u .connect-quick-book {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 181px;
+}
+
+.mail4u .undraw_team_collaboration_re_ow29-1 {
+  height: 506px;
+  left: 729px;
+  position: absolute;
+  top: 94px;
+  width: 937px;
+}
+
+.mail4u .overlap-group6 {
+  height: 1184px;
+  margin-left: -262px;
+  margin-top: 110px;
+  position: relative;
+  width: 1679px;
+}
+
+.mail4u .rectangle-6 {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 10px 40px 50px #e4e9f566;
+  height: 354px;
+  left: 897px;
+  position: absolute;
+  top: 315px;
+  width: 350px;
+}
+
+.mail4u .rectangle-7 {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 10px 40px 50px #e4e9f566;
+  height: 354px;
+  left: 1278px;
+  position: absolute;
+  top: 304px;
+  width: 350px;
+}
+
+.mail4u .overlap-group2 {
+  height: 968px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1679px;
+}
+
+.mail4u .frame {
+  align-items: flex-start;
+  display: flex;
+  height: 671px;
+  left: 90px;
+  opacity: 0.6;
+  overflow: hidden;
+  position: absolute;
+  top: 148px;
+  transform: rotate(21.46deg);
+  width: 938px;
+}
+.mail4u .frame2 {
+  align-items: flex-start;
+  display: flex;
+  height: 671px;
+  left: 1190px;
+  opacity: 0.6;
+  overflow: hidden;
+  position: absolute;
+  top: 700px;
+  transform: rotate(21.46deg);
+  width: 938px;
+}
+
+.mail4u .overlap-group-1 {
+  height: 922px;
+  margin-left: -84px;
+  margin-top: -125.19px;
+  position: relative;
+  width: 1107px;
+}
+
+.mail4u .vector {
+  height: 619px;
+  left: 80px;
+  position: absolute;
+  top: 151px;
+  transform: rotate(-21.46deg);
+  width: 945px;
+}
+
+.mail4u .rectangle-7-1 {
+  height: 248px;
+  left: 828px;
+  object-fit: cover;
+  position: absolute;
+  top: 145px;
+  transform: rotate(-21.46deg);
+  width: 242px;
+}
+
+.mail4u .element-1 {
+  height: 115px;
+  left: 1547px;
+  position: absolute;
+  top: 606px;
+  width: 132px;
+}
+
+.mail4u .text {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 592px;
+  min-height: 177px;
+  position: absolute;
+  top: 62px;
+  width: 956px;
+}
+
+.mail4u .our-features {
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-left: 4.0px;
+  min-height: 56px;
+  min-width: 216px;
+  white-space: nowrap;
+}
+
+.mail4u .rectangle-2 {
+  background-color: var(--black);
+  border-radius: 5px;
+  height: 2px;
+  margin-right: 2.0px;
+  margin-top: 26px;
+  width: 56px;
+}
+
+.mail4u .mail4u-is-a-revoluti {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 4.0px;
+  margin-top: 33px;
+  min-height: 60px;
+  text-align: center;
+  width: 952px;
+}
+
+.mail4u .services {
+  align-items: center;
+  display: flex;
+  height: 354px;
+  left: 483px;
+  min-width: 1097px;
+  position: absolute;
+  top: 315px;
+}
+
+.mail4u .overlap-group-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 10px 40px 50px #e4e9f566;
+  display: flex;
+  flex-direction: column;
+  min-height: 354px;
+  padding: 43.5px 19px;
+  width: 350px;
+}
+
+.mail4u .frame-1 {
+  height: 91px;
+  margin-left: 43.99px;
+  width: 92px;
+}
+
+.mail4u .designer {
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-left: 46px;
+  margin-top: 22px;
+  min-height: 56px;
+  white-space: nowrap;
+}
+
+.mail4u .design-sleek-e-mails {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 1px;
+  min-height: 84px;
+  width: 266px;
+}
+
+.mail4u .online-pharmacy {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 96px;
+  margin-top: 99.41px;
+  min-height: 113px;
+  width: 262px;
+}
+
+.mail4u .pre-built-template {
+  letter-spacing: 0;
+  line-height: 56px;
+  min-height: 56px;
+  white-space: nowrap;
+}
+
+.mail4u .ship-with-ready-to-u {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 0.64px;
+  margin-top: 1px;
+  min-height: 56px;
+  width: 261px;
+}
+
+.mail4u .overlap-group1-1 {
+  height: 281px;
+  margin-bottom: 13.0px;
+  margin-left: 70px;
+  position: relative;
+  width: 323px;
+}
+
+.mail4u .rectangle-6-1 {
+  height: 218px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 222px;
+}
+
+.mail4u .group-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 56px;
+  min-height: 141px;
+  position: absolute;
+  top: 140px;
+  width: 267px;
+}
+
+.mail4u .quick-book-integration {
+  letter-spacing: 0;
+  line-height: 56px;
+  min-height: 56px;
+  white-space: nowrap;
+}
+
+.mail4u .runtoime-fetch-the-i {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 0.64px;
+  margin-top: 1px;
+  min-height: 84px;
+  width: 261px;
+}
+
+.mail4u .undraw_newsletter_vovu {
+  height: 163px;
+  left: 509px;
+  position: absolute;
+  top: 329px;
+  width: 206px;
+}
+
+.mail4u .rectangle-6-2 {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 10px 40px 50px #e4e9f566;
+  height: 354px;
+  left: 917px;
+  position: absolute;
+  top: 748px;
+  width: 350px;
+}
+
+.mail4u .overlap-group3 {
+  height: 278px;
+  left: 885px;
+  position: absolute;
+  top: 748px;
+  width: 306px;
+}
+
+.mail4u .rectangle-8 {
+  height: 199px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 201px;
+}
+
+.mail4u .group-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 40px;
+  min-height: 141px;
+  position: absolute;
+  top: 137px;
+  width: 266px;
+}
+
+.mail4u .map-to-your-domain {
+  letter-spacing: 0;
+  line-height: 56px;
+  min-height: 56px;
+  white-space: nowrap;
+}
+
+.mail4u .link-to-custom-mail {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 0.64px;
+  margin-top: 1px;
+  min-height: 84px;
+  width: 261px;
+}
+
+.mail4u .overlap-group8 {
+  height: 1014px;
+  margin-left: -229px;
+  position: relative;
+  width: 1678px;
+}
+
+.mail4u .rectangle-9 {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 10px 40px 50px #e4e9f566;
+  height: 354px;
+  left: 848px;
+  position: absolute;
+  top: 246px;
+  width: 350px;
+}
+
+.mail4u .overlap-group4 {
+  height: 1014px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1678px;
+}
+
+.mail4u .overlap-group-3 {
+  height: 60px;
+  left: 923px;
+  position: absolute;
+  top: 954px;
+  width: 200px;
+}
+
+.mail4u .rectangle-16 {
+  border: 1.4px solid var(--blueberry);
+  border-radius: 55px;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 200px;
+}
+
+.mail4u .learn-more {
+  color: var(--blueberry);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: 60px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.mail4u .bg-element {
+  height: 968px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1119px;
+}
+
+.mail4u .element-2 {
+  height: 115px;
+  left: 1546px;
+  position: absolute;
+  top: 546px;
+  width: 132px;
+}
+
+.mail4u .text-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 909px;
+  min-height: 86px;
+  position: absolute;
+  top: 0;
+  width: 330px;
+}
+
+.mail4u .future-devlopment {
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-right: 2.0px;
+  min-height: 56px;
+  min-width: 328px;
+  white-space: nowrap;
+}
+
+.mail4u .rectangle-2-1 {
+  background-color: var(--black);
+  border-radius: 5px;
+  height: 2px;
+  margin-right: 12.0px;
+  margin-top: 28px;
+  width: 56px;
+}
+
+.mail4u .services-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 371px;
+  left: 450px;
+  min-width: 1187px;
+  position: absolute;
+  top: 229px;
+}
+
+.mail4u .detail-info {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 10px 40px 50px #e4e9f566;
+  display: flex;
+  flex-direction: column;
+  min-height: 354px;
+  padding: 44px 9px;
+  width: 350px;
+}
+
+.mail4u .icons8-payment-50-1 {
+  height: 112px;
+  margin-left: 16px;
+  object-fit: cover;
+  width: 100px;
+}
+
+.mail4u .paym-container {
+  align-self: flex-end;
+  height: 132px;
+  margin-top: 10px;
+  position: relative;
+  width: 316px;
+}
+
+.mail4u .multiple-payment-gateway {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 56px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.mail4u .you-can-recived-paym {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 48px;
+  width: 261px;
+}
+
+.mail4u .overlap-group2-1 {
+  align-self: center;
+  height: 252px;
+  margin-bottom: 8.59px;
+  margin-left: 91px;
+  position: relative;
+  width: 319px;
+}
+
+.mail4u .rectangle-9-1 {
+  height: 198px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.mail4u .group-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 48px;
+  min-height: 141px;
+  position: absolute;
+  top: 111px;
+  width: 271px;
+}
+
+.mail4u .workflow-automation {
+  letter-spacing: 0;
+  line-height: 56px;
+  min-height: 56px;
+  white-space: nowrap;
+}
+
+.mail4u .create-workflow-to-a {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 1px;
+  margin-top: 1px;
+  min-height: 84px;
+  width: 266px;
+}
+
+.mail4u .overlap-group3-1 {
+  border-radius: 20px;
+  height: 354px;
+  margin-left: 77px;
+  position: relative;
+  width: 350px;
+}
+
+.mail4u .overlap-group1-2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 10px 40px 50px #e4e9f566;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 354px;
+  padding: 47px 38.4px;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.mail4u .tracking {
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-top: 119px;
+  min-height: 56px;
+  white-space: nowrap;
+}
+
+.mail4u .individual-level-tra {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 0.64px;
+  margin-top: 1px;
+  min-height: 84px;
+  width: 261px;
+}
+
+.mail4u .icons8-tracking-50-1 {
+  height: 93px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 63px;
+  width: 102px;
+}
+
+.mail4u .overlap-group5 {
+  align-self: center;
+  height: 581px;
+  margin-right: 64.14px;
+  margin-top: 52px;
+  position: relative;
+  width: 1300px;
+}
+
+.mail4u .undraw_knowledge_re_leit-1 {
+  height: 579px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 539px;
+}
+
+.mail4u .leading-healthcare-providers {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 27px;
+  min-height: 477px;
+  padding: 57px 0;
+  position: absolute;
+  top: 104px;
+  width: 1273px;
+}
+
+.mail4u .why-to-connect-with-us {
+  letter-spacing: 0;
+  line-height: 56px;
+  min-height: 56px;
+  white-space: nowrap;
+  width: 481px;
+}
+
+.mail4u .rectangle-11 {
+  align-self: center;
+  background-color: var(--black);
+  border-radius: 10px;
+  height: 2px;
+  margin-left: 367.0px;
+  margin-top: 82px;
+  width: 56px;
+}
+
+.mail4u .mail4u-emails-and-au {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-right: 31px;
+  margin-top: 31px;
+  min-height: 150px;
+  width: 450px;
+}
+
+.mail4u .overlap-group9 {
+  align-self: center;
+  height: 763px;
+  margin-left: 4.0px;
+  margin-top: 82px;
+  position: relative;
+  width: 1380px;
+}
+
+.mail4u .undraw_speech_to_text_re_rw02-1 {
+  height: 396px;
+  left: 648px;
+  position: absolute;
+  top: 260px;
+  width: 732px;
+}
+
+.mail4u .element-3 {
+  height: 115px;
+  left: 876px;
+  position: absolute;
+  top: 648px;
+  width: 132px;
+}
+
+.mail4u .download-our-mobile-apps {
+  align-items: flex-start;
+  display: flex;
+  height: 616px;
+  left: 0;
+  min-width: 1366px;
+  position: absolute;
+  top: 0;
+}
+
+.mail4u .text-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 339px;
+  width: 537px;
+}
+
+.mail4u .x11-support-for-early-customer {
+  letter-spacing: 0;
+  line-height: 48px;
+  min-height: 48px;
+  white-space: nowrap;
+}
+
+.mail4u .rectangle-12 {
+  background-color: var(--black);
+  border-radius: 6px;
+  height: 2px;
+  margin-left: 2px;
+  margin-top: 78px;
+  width: 56px;
+}
+
+.mail4u .connect-with-us-we-h {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-left: 2px;
+  margin-top: 31px;
+  min-height: 180px;
+  width: 420px;
+}
+
+.mail4u .span1 {
+  color: var(--topaz);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+}
+
+.mail4u .element-4 {
+  height: 115px;
+  margin-left: 697px;
+  margin-top: 0;
+  width: 132px;
+}
+
+.mail4u .footer {
+  align-items: flex-start;
+  display: flex;
+  margin-left: -19px;
+  margin-top: 120px;
+  min-width: 1619px;
+}
+
+.mail4u .overlap-group1-3 {
+  height: 523px;
+  margin-top: 0;
+  position: relative;
+  width: 1619px;
+}
+
+.mail4u .element-5 {
+  height: 115px;
+  left: 1396px;
+  position: absolute;
+  top: 0;
+  width: 132px;
+}
+
+.mail4u .bg {
+  height: 432px;
+  left: 19px;
+  position: absolute;
+  top: 72px;
+  width: 1600px;
+}
+
+.mail4u .trafalgar {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 209px;
+  min-height: 201px;
+  position: absolute;
+  top: 190px;
+  width: 399px;
+}
+
+.mail4u .flex-row-1 {
+  align-items: center;
+  display: flex;
+  margin-left: 1px;
+  min-width: 134px;
+}
+
+.mail4u .overlap-group-4 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 20.5px;
+  display: flex;
+  height: 41px;
+  justify-content: flex-end;
+  min-width: 41px;
+  padding: 4px 11px;
+}
+
+.mail4u .m-1 {
+  color: #5b9bf3;
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 32px;
+  width: 17px;
+}
+
+.mail4u .mail4-u-1 {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-left: 12px;
+  margin-top: 1.0px;
+  min-height: 30px;
+  min-width: 81px;
+}
+
+.mail4u .t-mail4u-is-a-revolut {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 17px;
+  min-height: 84px;
+  width: 391px;
+}
+
+.mail4u .x2021-all-rights-reserved {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-s);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: 31px;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.mail4u .company {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 1073px;
+  min-height: 100px;
+  position: absolute;
+  top: 169px;
+  width: 395px;
+}
+
+.mail4u .contact-us {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 60px;
+  min-height: 60px;
+  white-space: nowrap;
+}
+
+.mail4u .querymail4ucom {
+  color: var(--white);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 38px;
+  margin-top: 2px;
+  min-height: 38px;
+  white-space: nowrap;
+}
+
+.mail4u .element-6 {
+  height: 115px;
+  left: 0;
+  position: absolute;
+  top: 408px;
+  width: 132px;
+}

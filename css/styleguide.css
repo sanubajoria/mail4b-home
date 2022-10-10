@@ -1,0 +1,47 @@
+:root { 
+  --black: #000000;
+  --blueberry: #458ff6;
+  --topaz: #7c7987;
+  --white: #ffffff;
+ 
+  --font-size-l: 21px;
+  --font-size-m: 18px;
+  --font-size-s: 16px;
+  --font-size-xl: 24px;
+  --font-size-xxl: 26px;
+  --font-size-xxxl: 36px;
+  --font-size-xxxxl: 48px;
+ 
+  --font-family-mulish: "Mulish", Helvetica;
+}
+.mulish-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-light-topaz-16px {
+  color: var(--topaz);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.mulish-bold-black-36px {
+  color: var(--black);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.mulish-light-topaz-18px {
+  color: var(--topaz);
+  font-family: var(--font-family-mulish);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
